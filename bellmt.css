@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'BellMT';
+  src: url('BellMT.woff2') format('woff2'),
+       url('BellMT.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
